@@ -44,7 +44,7 @@ def reserve(start_time, end_time, seat):
     password = '***'
 
     options = webdriver.EdgeOptions()  # 创建一个配置对象
-    #options.add_argument("--headless")  # 开启无界面模式
+    options.add_argument("--headless")  # 开启无界面模式
     options.add_argument("--disable-gpu")
     options.add_argument('--no-sandbox')
     browser = webdriver.Edge(options=options)
