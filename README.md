@@ -3,7 +3,7 @@ A simple tool to help reserve a seat in the library in Nku
 
 # Demo
 
-![Demo](./demo/demo.gif)
+![Demo](https://github.com/pursuitxi/Nku_lib/blob/main/demo/demo.gif)
 
 # Options
 ```
