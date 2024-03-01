@@ -2,6 +2,7 @@
 A simple tool to help reserve a seat in the library in Nku
 
 # Demo
+
 ![Demo](./demo/demo.gif)
 
 # Options
