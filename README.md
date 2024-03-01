@@ -2,7 +2,7 @@
 A simple tool to help reserve a seat in the library in Nku
 
 # Demo
-![image](https://github.com/pursuitxi/Nku_lib/edit/main/demo.gif)
+![image](https://github.com/pursuitxi/Nku_lib/main/demo.gif)
 
 # Options
 ```
